@@ -1,4 +1,4 @@
-### Olá, eu sou a Daniele! Seja muito bem-vindos ao meu perfil.
+### Olá, eu sou a Daniele! Seja muito bem-vindo ao meu perfil.
 
 <div align="center">
   <a href="https://github.com/danisfon">
